@@ -1,6 +1,6 @@
-### Hi there! 👋
+### Hi there... 👋
 
-Thank you for checking my GitHub Profile, this is where I mostly spent my time if I'm not accessing my social media accounts.
+Thank you for checking my GitHub Profile! This is where I mostly spent my time if I'm not accessing my social media accounts.
 
 - 📫 How to reach me: [@feedsbrain](https://instagram.com/feedsbrain)
 - ⚡ Fun fact: **I live in the internet!**
