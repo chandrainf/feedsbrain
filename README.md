@@ -1,4 +1,4 @@
-### Hi there... 👋
+### Hi, I'm Indra! 👋
 
 <a href="https://github.com/feedsbrain"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feedsbrain&count_private=true&show_icons=true&theme=vue-dark" align="right" height="150" /></a>
 
