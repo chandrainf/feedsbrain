@@ -1,6 +1,6 @@
 ### Hi, I'm Indra! 👋
 
-<a href="https://github.com/feedsbrain"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feedsbrain&count_private=true&show_icons=true&theme=vue-dark" align="right" height="150" /></a>
+<a href="https://github.com/feedsbrain"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feedsbrain&layout=compact" align="right" height="150" /></a>
 
 Thank you for checking my GitHub Profile! This is where I mostly spent my time if I'm not accessing my social media accounts.
 
