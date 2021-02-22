@@ -9,4 +9,6 @@ Thank you for checking my GitHub Profile! This is where I mostly spent my time i
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/feedsbrain/) or [Instagram](https://instagram.com/indragunawandotcom)
 - ⚡ Fun fact: **I live in the internet!**
 
+## Weekly Coding Activity
+
 <a href="https://github.com/feedsbrain"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=feedsbrain&layout=compact&theme=tokyonight&custom_title=WakaTime%20Stats" width="100%" /></a>
